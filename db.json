@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Sourav",
+        "difficulty": "medium"
+      }
+    ],
+    "scores": [
+      {
+        "id": 1,
+        "name": "Sourav",
+        "difficulty": "medium",
+        "score":20
+      },
+      {
+        "id": 2,
+        "name": "Admin",
+        "difficulty": "easy",
+        "score":40
+      }
+    ]
+  }
